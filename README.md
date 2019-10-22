@@ -711,3 +711,5 @@ Dad: Oh great, so you want to become an engineer?
 Kid: No, I want 4 more years to decide what I want to do
 
 ***
+C and C++ went into a bar. After drinking little much of beer and vodka, C got fell and spitting on the floor and started dancing like a illmannered person. After which C++ says - "How Classless you are !!"
+***
